@@ -1,0 +1,11 @@
+.FooterContainer {
+  padding: 30px 20px;
+  background-color: #24262b;
+}
+
+.CopyRightText {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}

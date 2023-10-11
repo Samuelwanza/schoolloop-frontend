@@ -1,0 +1,39 @@
+.Container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+}
+
+.formContainer > button {
+  width: 20%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.formContainer > input {
+  width: 60%;
+}
+
+.formContainer > select {
+  width: 60%;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: gray;
+  border: #d1f3b7 1px solid;
+}
+
+.image {
+  width: 150px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}

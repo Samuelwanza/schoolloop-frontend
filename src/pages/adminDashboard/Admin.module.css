@@ -1,0 +1,17 @@
+.requestContainer {
+  width: 100%;
+}
+
+table thead tr td,
+table tbody tr td {
+  border: 0.5px solid #d1f3b7;
+  padding: 5px;
+}
+
+table {
+  width: 100%;
+}
+
+.title {
+  margin-top: 5px;
+}
